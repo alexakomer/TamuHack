@@ -1,4 +1,4 @@
-# Email-Security
+# This is a local email security application
 
 Description: Interactive Email Security Website
 
